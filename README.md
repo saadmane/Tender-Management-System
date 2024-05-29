@@ -13,6 +13,7 @@ Whenever a company  requires a service / merchandise , a tender is floated. Comp
 1.	Administrator and
 2.	Vendor
 
+
 **The Role of Administrator is**
 
 1.	Create new Vendor.
